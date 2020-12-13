@@ -1,2 +1,3 @@
 import torch
-print('heyo')
+x = torch.rand(5,10)
+print(x)
